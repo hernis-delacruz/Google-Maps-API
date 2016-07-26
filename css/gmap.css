@@ -1,0 +1,19 @@
+#map-canvas {
+    height: 500px;
+}
+h2 {
+    color: darkred;
+    font-style: italic;
+}
+h1 {
+    font-family: fantasy;
+    color: darkblue;
+}
+
+h3 {
+    color: #000000;
+    font-family: cursive;
+}
+body {
+    background-color: lightgrey;
+}
